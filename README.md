@@ -78,12 +78,17 @@ weighted avg       0.53      0.47      0.47       750
 
 - **K = 2**
 
+```
               precision    recall  f1-score   support
-    
+
         cats       0.39      0.69      0.50       249
         dogs       0.38      0.37      0.38       262
        panda       0.92      0.20      0.33       239
-        
+
     accuracy                           0.43       750
    macro avg       0.57      0.42      0.40       750
 weighted avg       0.56      0.43      0.40       750
+
+
+```
+
