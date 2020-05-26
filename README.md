@@ -12,7 +12,7 @@ The k-Nearest Neighbor classifier is by far the most simple machine learning and
 
 In this project, we will use KNN algorithm to classify between images of dogs, cats and pandas.
 
-![](https://github.com/FaroukZidane/Simple-KNN-Classifier/raw/master/doc/images/knn.png)
+<img src="https://github.com/FaroukZidane/Simple-KNN-Classifier/raw/master/doc/images/knn.png" style="zoom:50%;" />
 
 ------
 
